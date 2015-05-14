@@ -1,0 +1,15 @@
+C:\Users\Frenette\documents\visual studio 2013\Projects\TP3_ORM\TP3_ORM\bin\Debug\TP3_ORM.exe.config
+C:\Users\Frenette\documents\visual studio 2013\Projects\TP3_ORM\TP3_ORM\bin\Debug\TP3_ORM.exe
+C:\Users\Frenette\documents\visual studio 2013\Projects\TP3_ORM\TP3_ORM\bin\Debug\TP3_ORM.pdb
+C:\Users\Frenette\documents\visual studio 2013\Projects\TP3_ORM\TP3_ORM\bin\Debug\EntityFramework.dll
+C:\Users\Frenette\documents\visual studio 2013\Projects\TP3_ORM\TP3_ORM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Frenette\documents\visual studio 2013\Projects\TP3_ORM\TP3_ORM\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Frenette\documents\visual studio 2013\Projects\TP3_ORM\TP3_ORM\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Frenette\documents\visual studio 2013\Projects\TP3_ORM\TP3_ORM\bin\Debug\EntityFramework.xml
+C:\Users\Frenette\documents\visual studio 2013\Projects\TP3_ORM\TP3_ORM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Frenette\documents\visual studio 2013\Projects\TP3_ORM\TP3_ORM\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Frenette\documents\visual studio 2013\Projects\TP3_ORM\TP3_ORM\obj\Debug\TutoratAppl.csprojResolveAssemblyReference.cache
+C:\Users\Frenette\documents\visual studio 2013\Projects\TP3_ORM\TP3_ORM\obj\Debug\TP3_ORM.exe
+C:\Users\Frenette\documents\visual studio 2013\Projects\TP3_ORM\TP3_ORM\obj\Debug\TP3_ORM.pdb
+C:\Users\Frenette\Documents\Visual Studio 2013\Projects\TP3_ORM\TP3_ORM\bin\Debug\DataLayer.dll
+C:\Users\Frenette\Documents\Visual Studio 2013\Projects\TP3_ORM\TP3_ORM\bin\Debug\DataLayer.pdb
